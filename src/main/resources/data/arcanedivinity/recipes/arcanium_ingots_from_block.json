@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "arcane_divinity",
+  "ingredients": [
+    {
+      "item": "arcanedivinity:arcanium_block"
+    }
+  ],
+  "result": {
+    "item": "arcanedivinity:arcanium_ingot",
+    "count": 9
+  }
+}
