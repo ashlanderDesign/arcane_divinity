@@ -1,5 +1,6 @@
 {
   "item.arcanedivinity.raw_arcanium_ore": "Raw Arcanium Ore",
   "block.arcanedivinity.arcanium_ore_block": "Arcanium Ore Block",
-  "item.arcanedivinity.arcanium_ingot": "Arcanium Ingot"
+  "item.arcanedivinity.arcanium_ingot": "Arcanium Ingot",
+  "block.arcanedivinity.arcanium_block": "Arcanium Block"
 }

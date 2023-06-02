@@ -57,6 +57,7 @@ public class ArcaneDivinity
     {
         if (event.getTab() == CreativeModeTabs.BUILDING_BLOCKS) {
             event.accept(ModBlocks.ARCANIUM_ORE_BLOCK);
+            event.accept(ModBlocks.ARCANIUM_BLOCK);
         }
 
         if (event.getTab() == CreativeModeTabs.INGREDIENTS) {
